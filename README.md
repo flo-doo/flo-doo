@@ -1,16 +1,16 @@
-## Hi there 👋
+# Florence Doo, MD
 
-<!--
-**flo-doo/flo-doo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Radiologist · Physician-scientist · Clinical AI researcher**
 
-Here are some ideas to get you started:
+I work at the intersection of **medical imaging, artificial intelligence, and clinical translation**, with a particular interest in how AI systems move from technical performance to safe and useful clinical practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work includes:
+
+* clinical AI evaluation, validation, and monitoring
+* human–AI interaction and decision-making
+* multimodal and emerging AI for medical imaging
+* implementation, policy, sustainability, and value in radiology
+
+### Research & projects
+
+→ **[Research, publications, projects, and more](https://flo-doo.github.io/)**
