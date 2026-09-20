@@ -1,4 +1,4 @@
-# Florence Doo, MD
+# Florence (Flo) X. Doo, MD MA
 
 **Radiologist · Physician-scientist · Clinical AI researcher**
 
