@@ -13,4 +13,4 @@ My work includes:
 
 ### Research & projects
 
-→ **[Research, publications, projects, and more](https://flo-doo.github.io/)**
+→ **[Research, publications, projects, and more (https://flo-doo.github.io/)](https://flo-doo.github.io/)**
